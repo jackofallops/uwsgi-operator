@@ -1,0 +1,3 @@
+apiVersion: sourceoftruth.io/v1alpha1
+kind: UwsgiApp
+projectName: uwsgi-operator

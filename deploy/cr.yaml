@@ -1,0 +1,4 @@
+apiVersion: "sourceoftruth.uk/v1alpha1"
+kind: "UwsgiApp"
+metadata:
+  name: "example"
